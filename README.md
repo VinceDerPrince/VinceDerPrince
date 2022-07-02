@@ -1,4 +1,4 @@
-## Hello, world! 🔌
+## Hello there. 🔌
 
 yo! I'm Vincent aka VinceDerPrince. Have fun on my account!
 
@@ -16,8 +16,12 @@ yo! I'm Vincent aka VinceDerPrince. Have fun on my account!
 
 - 💾 some experience with Java & Dart/Flutter
 - 🐍 currently working with python
-- 🤖 focussing on api and ai developing
+- 🤖 focussing/learning on api and ai developing
   - working in unreally to fight fakenews
+- 📫 How to reach me:
+  - [Mail](vincent.elster@hoffmannconsulting.de)
+  - [LinkedIn](https://www.linkedin.com/in/vincent-elster-a532651b6)
+  - [Twitter](https://twitter.com/VincentElster)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinceDerPrince&hide=prs,contribs&show_icons=true&theme=codeSTACKr)
 
@@ -31,7 +35,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
