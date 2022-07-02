@@ -1,4 +1,4 @@
-## Hello there. 🔌
+## Insert Coin 🕹️
 
 yo! I'm Vincent aka VinceDerPrince. Have fun on my account!
 
