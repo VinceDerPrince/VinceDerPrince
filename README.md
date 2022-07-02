@@ -16,10 +16,9 @@ yo! I'm Vincent aka VinceDerPrince. Have fun on my account!
 
 - 💾 some experience with Java & Dart/Flutter
 - 🐍 currently working with python
-- 🤖 focussing/learning on api and ai developing
+- 🌱 focussing/learning on api and ai developing
   - working in unreally to fight fakenews
 - 📫 How to reach me:
-  - [Mail](vincent.elster@hoffmannconsulting.de)
   - [LinkedIn](https://www.linkedin.com/in/vincent-elster-a532651b6)
   - [Twitter](https://twitter.com/VincentElster)
 
