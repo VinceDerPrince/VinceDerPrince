@@ -8,7 +8,7 @@ yo! I'm Vincent aka VinceDerPrince. Have fun on my account!
 
 
 <div style="padding-top: 20px">
-  <img align="right" src="https://media.giphy.com/media/xT8qBvjBcLBAZxJixO/giphy.gif" width=300px>
+  <img align="right" src="https://media.giphy.com/media/xT8qBvjBcLBAZxJixO/giphy.gif" width=200px>
 </div>
 
 #### my passion is creating stuff, even better when I'm creating solutions to important problems & challenges.
