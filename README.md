@@ -11,7 +11,7 @@ yo! I'm Vincent aka VinceDerPrince. Have fun on my account!
   <img align="right" src="https://media.giphy.com/media/xT8qBvjBcLBAZxJixO/giphy.gif" width=300px>
 </div>
 
-> my passion is creating stuff, even better when I'm creating solutions to important problems & challenges.
+#### my passion is creating stuff, even better when I'm creating solutions to important problems & challenges.
 
 - 💾 some experience with Java & Dart/Flutter
 - 🐍 currently working with python
