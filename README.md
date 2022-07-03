@@ -12,7 +12,7 @@ yo! I'm Vincent aka VinceDerPrince. Have fun on my account!
 </div>
 
 
-### my passion is creating stuff, even better when I'm creating solutions to important problems & needs.
+### my passion is creating stuff, even better when I'm creating solutions to important problems & challenges.
 
 - 💾 some experience with Java & Dart/Flutter
 - 🐍 currently working with python
