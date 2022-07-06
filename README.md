@@ -21,7 +21,7 @@ yo! I'm Vincent aka VinceDerPrince. Have fun on my account!
   - [LinkedIn](https://www.linkedin.com/in/vincent-elster-a532651b6)
   - [Twitter](https://twitter.com/VincentElster)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinceDerPrince&hide=prs,contribs&show_icons=true&theme=codeSTACKr&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinceDerPrince&hide=prs,contribs&show_icons=true&theme=codeSTACKr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinceDerPrince&layout=compact&theme=codeSTACKr)](https://github.com/VinceDerPrince/github-readme-stats)
 <!--
 **CasCodes/CasCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
